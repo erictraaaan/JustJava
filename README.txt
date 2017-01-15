@@ -2,3 +2,5 @@ JustJava app created through the Udacity Android App Development for Beginners C
 
 Revision History:
 - Inital Commit
+
+Completed Project.
